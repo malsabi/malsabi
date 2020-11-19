@@ -14,7 +14,7 @@ I'm a gamer, i love playing PC games (League of legends) but mostly i prefer jog
 ### How to reach me 📫 ?
 I'm active on my twitter account.
 
-### Which most filed you like to work on 🤔 ?
+### What is your favorite field you like to work on 🤔 ?
 I honestly prefer Network programming or Inter Processes Communication projects also Image Processing projects.
 
 
