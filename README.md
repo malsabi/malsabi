@@ -17,7 +17,8 @@ I'm active on my twitter account.
 ### What is your favorite field you like to work on 🤔 ?
 I honestly prefer Network programming or Inter Processes Communication projects also Image Processing projects.
 
-
+### What is your current goal ?
+To be leading edge of artificial intelligence
 
 <!--
 **malsbi/malsbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
