@@ -1,4 +1,4 @@
-### Hi there 👋 I'am 7moxd
+### Hi there 👋 I'am Mohammed Ahmed
 
 ### About Me 💬
 I'm a Computer Scientist, full stack application developer, network engineer, cyber security authiast.
