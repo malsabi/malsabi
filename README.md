@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/7moxd98" target="blank"><img src="https://img.shields.io/twitter/follow/7moxd98?logo=twitter&style=for-the-badge" alt="7moxd98" /></a> </p>
 
-- 🔭 I’m currently working on [IRIS Theme](https://github.com/malsabi/iRISTheme)
+- 🔭 I’m currently working on [IRIS Theme](https://github.com/malsabi/iRISTheme) and [IRIS Secured Chat](https://github.com/malsabi/IRISChatClient)
 
 - 👨‍💻 All of my projects are available at [https://github.com/malsabi?tab=repositories](https://github.com/malsabi?tab=repositories)
 
