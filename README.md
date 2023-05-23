@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malsabi" alt="malsabi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/7moxd98" target="blank"><img src="https://img.shields.io/twitter/follow/7moxd98?logo=twitter&style=for-the-badge" alt="7moxd98" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/malsabi?tab=repositories](https://github.com/malsabi?tab=repositories)
 
 <h3 align="left">Languages and Tools:</h3>
