@@ -41,15 +41,5 @@ In the realm of AI, I dabble in machine learning with Sklearn, OpenCV, and YoloV
 
 ---
 
-### 📫 How to Reach Me
-
-<div dir="auto">
-  <a href="mailto:malsabi98@outlook.com?subject=Hello-World!;">
-    <img src="https://camo.githubusercontent.com/442e1690306422d961814bdf527334a676c09206f3bf5211eacd4849436ead29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d776869746526636f6c6f723d343734646433" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white&amp;color=474dd3" style="max-width: 100%;">
-  </a>
-</div>
-
----
-
 Feel free to connect with me for collaborations, knowledge exchange, or discussions on the latest in full stack development and emerging technologies!
 
